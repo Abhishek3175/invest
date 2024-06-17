@@ -1,1 +1,37 @@
-{}
+[
+  {
+    "customer": {
+      "name": "abhi",
+      "security": [
+        {
+          "sname": "tata",
+          "quantity": 400,
+          "price": 100,
+          "order": "buy",
+          "date": "2023-10-04T13:00:00Z"
+        },
+        {
+          "sname": "hal",
+          "quantity": 600,
+          "price": 200,
+          "order": "buy",
+          "date": "2023-24-02T11:31:00Z"
+        },
+        {
+          "sname": "tata",
+          "quantity": 200,
+          "price": 120,
+          "order": "sell",
+          "date": "2024-10-03T13:00:00Z"
+        },
+        {
+          "sname": "hal",
+          "quantity": 350,
+          "price": 190,
+          "order": "sell",
+          "date": "2024-24-02T11:31:00Z"
+        }
+      ]
+    }
+  }
+]
